@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/01-crear-hilos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/02-memoria-compartida-problema" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/03-memoria-compartida-solucion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/04-memoria-compartida-lock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/05-tres-hilos-orden-arbitrario" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/06-wait-notify" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/07-wait-notifyAll" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/08-deadlock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/09-sleep" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/0-abstract" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
