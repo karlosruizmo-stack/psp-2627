@@ -16,7 +16,7 @@ Curso: 2026-2027
 
 ## Estructura de carpetas
 
-Como ya sabes, cada ejercicio corresponde a un tema de la asignatura. 
+Como ya sabes, cada ejercicio corresponde a un tema de la asignatura.
 
 Cada tema, está dentro de un bloque
 
@@ -27,21 +27,23 @@ La estructura es la siguiente:
   /tema-1
     /apuntes/
       # también puedes encontrarlos en el aula virtual
+    /ejemplos/
+      # código de clase (referencia, no evaluable)
     /actividad-1/
       README.md # enunciado actividad 1
     /actividad-2/
       README.md # enunciado actividad 2
     /actividad-3/
       README.md # enunciado actividad 3
+    /actividad-4/
+      README.md # enunciado actividad 4
   /tema-2
     /apuntes/
       # también puedes encontrarlos en el aula virtual
-    /actividad-4/
-      README.md # enunciado actividad 4
     /actividad-5/
-      README.md # enunciado actividad 5
+      README.md
     /actividad-6/
-      README.md # enunciado actividad 6
+      README.md
   /proyecto-bloque
     README.md
 ```
@@ -52,7 +54,7 @@ La estructura es la siguiente:
 
 | Si usas la IA, quiero que subas la conversación. Si no sabes hacerlo, pregúntale a Google.
 
-Dentro de cada actividad, crearás una carpeta `/solución` donde subirás el código.
+Dentro de la carpeta de cada actividad (junto al `README.md` del enunciado) subirás tu código Java en un **package** con el nombre de la actividad (`actividad1`, `actividad2`, …). Así no chocan los `Main` entre actividades. No uses una carpeta `/solución`.
 
 Esta es la estructura que espero:
 
@@ -61,23 +63,26 @@ Esta es la estructura que espero:
   /tema-1
     /actividad-1/
       README.md
-      /solución # carpeta con la solución
+      /actividad1/       # package actividad1;
+        Main.java
+        ...
     /actividad-2/
       README.md
-      /solución # carpeta con la solución
+      /actividad2/       # package actividad2;
+        Main.java
+        ...
     /actividad-3/
       README.md
-      /solución # carpeta con la solución
-  /tema-2
+      /actividad3/
+        ...
     /actividad-4/
       README.md
-      /solución # carpeta con la solución
+      /actividad4/
+        ...
+  /tema-2
     /actividad-5/
       README.md
-      /solución # carpeta con la solución
-    /actividad-6/
-      README.md
-      /solución # carpeta con la solución
+      ...
 ```
 
 ## Proyectos
@@ -101,16 +106,14 @@ Esto es un ejemplo:
 ``` shell
 /bloque-1
   /tema-1
-    /actividad-1/ # README.md + carpeta con la solución
-    /actividad-2/ # README.md + carpeta con la solución
-    /actividad-3/ # README.md + carpeta con la solución
+    /actividad-1/ # README.md + package actividad1/
+    /actividad-2/ # README.md + package actividad2/
+    /actividad-3/ # README.md + package actividad3/
+    /actividad-4/ # README.md + package actividad4/
   /tema-2
-    /actividad-4/ # README.md + carpeta con la solución
-    /actividad-5/ # README.md + carpeta con la solución
-    /actividad-6/ # README.md + carpeta con la solución
+    /actividad-5/
+    /actividad-6/
   /proyecto
     README.md # enunciado del proyecto
-    /solución # aquí subes la solución del proyecto
+    # tu código del proyecto aquí (mismo criterio: package, sin /solución)
 ```
-
-
