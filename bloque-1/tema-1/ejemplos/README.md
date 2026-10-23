@@ -13,5 +13,8 @@ Mini-proyectos para proyectar en clase. Cada carpeta es un ejemplo independiente
 | 07 | `07-wait-notifyAll` | Varios bebés, un cocinero: `notify` vs `notifyAll`. | wait, notify |
 | 08 | `08-deadlock` | Dos Locks en orden distinto → deadlock. | Interbloqueo |
 | 09 | `09-sleep` | `Thread.sleep`: se para un rato y sigue solo (sin notify). | sleep |
+| 10 | `10-secuencial-y-paralelo` | 1.000 tareas de 20 ms: primero en `main`, luego en 10 hilos. `main` guarda todos los resultados. | Paralela |
+| 11 | `11-distribuido-archivo` | Dos procesos se pasan 5 tareas por `canal.txt`. Sin memoria compartida. | Distribuida |
+| 12 | `12-distribuido-json` | Lo mismo que el 11, pero el canal lleva un objeto JSON. `Canal` lo escribe y lo lee. | Distribuida |
 
-Orden en clase: **01 → 02 → … → 09**.
+Orden en clase: **01 → 02 → … → 12**.

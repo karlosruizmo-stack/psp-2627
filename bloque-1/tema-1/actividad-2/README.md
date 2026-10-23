@@ -1,6 +1,6 @@
 # Actividad 2 — "Open Office": tres hilos, tres tareas
 
-- *Fecha límite de entrega*: Domingo 18/10/2026 a las 23:59
+- *Fecha límite de entrega*: Domingo 25/10/2026 a las 23:59
 - *RA 1*: Desenvolupa aplicacions compostes per diversos processos reconeixent i aplicant principis de programació paral·lela.
 
 ## Contexto

@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-6" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/01-crear-hilos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/02-memoria-compartida-problema" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/03-memoria-compartida-solucion" isTestSource="false" />
@@ -16,6 +18,9 @@
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/07-wait-notifyAll" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/08-deadlock" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/09-sleep" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/10-secuencial-y-paralelo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/11-distribuido-archivo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/12-distribuido-json" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/ejemplos/0-abstract" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

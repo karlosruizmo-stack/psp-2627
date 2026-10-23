@@ -11,3 +11,15 @@ out/
 /dataSources.local.xml
 
 *.class
+bloque-1/tema-1/ejemplos/11-distribuido-archivo/canal.txt
+bloque-1/tema-1/ejemplos/11-distribuido-archivo/canal.txt.tmp
+bloque-1/tema-1/ejemplos/11-distribuido-archivo/canal-*.tmp
+bloque-1/tema-1/ejemplos/11-distribuido-archivo/canal.lock
+bloque-1/tema-1/ejemplos/12-distribuido-json/canal.txt
+bloque-1/tema-1/ejemplos/12-distribuido-json/canal.txt.tmp
+bloque-1/tema-1/ejemplos/12-distribuido-json/canal-*.tmp
+bloque-1/tema-1/ejemplos/12-distribuido-json/canal.lock
+bloque-1/tema-1/actividad-6/canal.txt
+bloque-1/tema-1/actividad-6/canal.txt.tmp
+bloque-1/tema-1/actividad-6/canal-*.tmp
+bloque-1/tema-1/actividad-6/canal.lock
