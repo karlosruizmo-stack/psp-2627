@@ -3,9 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-3/actividad3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bloque-1/tema-1/actividad-6" isTestSource="false" />
